@@ -1,0 +1,18 @@
+body{
+    background-color: hwb(0 0% 100% / 0.953);
+    color: hsla(115, 97%, 48%, 0.958);
+    height: 100vh;
+    overflow: hidden;
+}
+
+pre{
+    font-family: monospace;
+    font-size: 10px;
+}
+
+.donut-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
